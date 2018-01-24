@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/reder
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://reder.ws
+  * I am reder (https://keybase.io/reder) on keybase.
+  * I have a public key ASBMzj1fcH068KmRfD639YCTs-JhgBmZnqc0G8p8GGQ57wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204cce3d5f707d3af0a9917c3eb7f58093b3e2618019999ea7341bca7c186439ef0a",
+      "host": "keybase.io",
+      "kid": "01204cce3d5f707d3af0a9917c3eb7f58093b3e2618019999ea7341bca7c186439ef0a",
+      "uid": "91d633cc22698528ef35e13bbbf9c319",
+      "username": "reder"
+    },
+    "merkle_root": {
+      "ctime": 1516779915,
+      "hash": "daf053be6c88ed37b34f3dad6830c703d69da9f1928b5a61b14bac22b1dd8b582a09293e3bc0e4811d8592f00866c3733da4d677f1073ebf964d1cfc7eba57be",
+      "hash_meta": "70c109086d1c56f3ebaa2e9741c1776c3cbcf00fd65b7815a78acac830c0787e",
+      "seqno": 1971187
+    },
+    "service": {
+      "hostname": "reder.ws",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.39"
+  },
+  "ctime": 1516779927,
+  "expire_in": 504576000,
+  "prev": "f8dbe97b55f5b9a661651100642b607a74e0fe1a44718d21131324696e70afad",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTM49X3B9OvCpkXw+t/WAk7PiYYAZmZ6nNBvKfBhkOe8Kp3BheWxvYWTFAz57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNGNjZTNkNWY3MDdkM2FmMGE5OTE3YzNlYjdmNTgwOTNiM2UyNjE4MDE5OTk5ZWE3MzQxYmNhN2MxODY0MzllZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGNjZTNkNWY3MDdkM2FmMGE5OTE3YzNlYjdmNTgwOTNiM2UyNjE4MDE5OTk5ZWE3MzQxYmNhN2MxODY0MzllZjBhIiwidWlkIjoiOTFkNjMzY2MyMjY5ODUyOGVmMzVlMTNiYmJmOWMzMTkiLCJ1c2VybmFtZSI6InJlZGVyIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE2Nzc5OTE1LCJoYXNoIjoiZGFmMDUzYmU2Yzg4ZWQzN2IzNGYzZGFkNjgzMGM3MDNkNjlkYTlmMTkyOGI1YTYxYjE0YmFjMjJiMWRkOGI1ODJhMDkyOTNlM2JjMGU0ODExZDg1OTJmMDA4NjZjMzczM2RhNGQ2NzdmMTA3M2ViZjk2NGQxY2ZjN2ViYTU3YmUiLCJoYXNoX21ldGEiOiI3MGMxMDkwODZkMWM1NmYzZWJhYTJlOTc0MWMxNzc2YzNjYmNmMDBmZDY1Yjc4MTVhNzhhY2FjODMwYzA3ODdlIiwic2Vxbm8iOjE5NzExODd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicmVkZXIud3MiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOSJ9LCJjdGltZSI6MTUxNjc3OTkyNywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJmOGRiZTk3YjU1ZjViOWE2NjE2NTExMDA2NDJiNjA3YTc0ZTBmZTFhNDQ3MThkMjExMzEzMjQ2OTZlNzBhZmFkIiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCuZSp15hSR/QDCu+AzvBNIOrLXT4ZfX+SK0U9BqTNf98jVOcq4JF7slNqn8Ms72aKeKkSaK5FZH7iyiJxAhzA2oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDnU7umcUMsTbMXkpLMKPVLqHEb6sBNhBHkfQlIRl4X8qN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reder
+
+==================================================================
